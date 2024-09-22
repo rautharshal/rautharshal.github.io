@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Harshal Raut"
   pronouns         : # example: "she/her"  
-  bio              : "Master of Science (Research) at IIT Indore, [Department of Space Science & Engineering](https://aase.iiti.ac.in/)"
+  bio              : 'Master of Science (Research) at IIT Indore, <a href="https://aase.iiti.ac.in">Department of Space Science & Engineering</a>'
   location         : "Indore, India"
   employer         : #"Red Brick University"
   uri              : # URL
