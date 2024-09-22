@@ -20,12 +20,15 @@ Software Skill Learned
 During the 2 years of my master's degree, I have acquired the following skills:
 1) Photometry
    I have learned to derive the surface density profile from the telescope light using photutils and MGEFit software.
+   
 2) PyPIPE3D
    I have understood the algorithm behind the code and obtained the stellar velocity dispersion from the spectrum.
+   
 3) Markov Chain Monte Carlo
    I have learned to apply Markov Chain Monte Carlo (MCMC) techniques for mass modeling, fitting the total observed rotational velocity by decomposing it into 
    stellar, gas, and dark matter halo components. Using Jeans Anisotropic Modeling for the stellar circular velocity and analytical methods for the gas component, 
    I optimized the dark matter halo parameters by fitting these velocity components to the observed data.
+   
 4) Multiprocessing
    I have learned to run the modeling of the galaxy based on the solutions of the coupled Poisson's-Boltzmann equation parallelly on multi-core server. 
 
