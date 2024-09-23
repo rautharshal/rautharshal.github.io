@@ -18,6 +18,7 @@ So, we use the IFU data of the galaxy NGC 551 from Data Release 3 (DR3) of the C
 Software Skill Learned
 ======
 During the 2 years of my master's degree, I have acquired the following skills:
+
 1) Photometry
    I have learned to derive the surface density profile from the telescope light using photutils and MGEFit software.
    
