@@ -1,5 +1,5 @@
 ---
-title: "The EDGE-CALIFA Survey: Thin and thick stellar disks in NGC 551"
+title: "Multi-Component stellar disk in NGC 551"
 collection: publications
 category: manuscripts
 permalink: 
